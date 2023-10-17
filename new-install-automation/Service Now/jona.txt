@@ -1,0 +1,225 @@
+This XML file does not appear to have any style information associated with it. The document tree is shown below.
+<xml>
+<sc_req_item>
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>approved</approval>
+<approval_history/>
+<approval_set>2022-09-26 19:14:11</approval_set>
+<assigned_to/>
+<assignment_group display_value="WCT Telephony Operations" name="WCT Telephony Operations">3dcc9c34c4310100a18bc0d8f1037266</assignment_group>
+<backordered>false</backordered>
+<billable>false</billable>
+<business_duration/>
+<business_service/>
+<calendar_duration/>
+<cat_item display_value="Telephone Services">978f6c6fdbaff200de73b96c4e96197b</cat_item>
+<close_notes/>
+<closed_at/>
+<closed_by/>
+<cmdb_ci/>
+<cmdb_ci_business_app/>
+<comments/>
+<company/>
+<configuration_item/>
+<contact_type/>
+<context display_value="Telephony Request_New Hire">3e361c7f1b021d106dd7ca261a4bcbdf</context>
+<contract/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan/>
+<delivery_task/>
+<description/>
+<due_date>2022-10-03 19:14:11</due_date>
+<escalation/>
+<estimated_delivery/>
+<expected_start/>
+<flow_context/>
+<follow_up/>
+<group_list/>
+<impact/>
+<knowledge>false</knowledge>
+<location/>
+<made_sla>true</made_sla>
+<number>RITM1126273</number>
+<opened_at>2022-09-26 19:14:05</opened_at>
+<opened_by display_value="Jona Sahota">f8e94d871b27e4106ca287b3604bcbcc</opened_by>
+<order/>
+<order_guide/>
+<parent display_value="REQ0996033">0436547f1b021d106dd7ca261a4bcb52</parent>
+<price>0</price>
+<priority/>
+<quantity>1</quantity>
+<reassignment_count>1</reassignment_count>
+<recurring_frequency/>
+<recurring_price>0</recurring_price>
+<rejection_goto/>
+<request display_value="REQ0996033">0436547f1b021d106dd7ca261a4bcb52</request>
+<requested_for display_value="Jona Sahota">f8e94d871b27e4106ca287b3604bcbcc</requested_for>
+<route_reason/>
+<sc_catalog/>
+<service_offering/>
+<short_description>Telephone Services</short_description>
+<skills/>
+<sla_due/>
+<stage>fulfillment</stage>
+<state>1</state>
+<sys_class_name>sc_req_item</sys_class_name>
+<sys_created_by>QX76</sys_created_by>
+<sys_created_on>2022-09-26 19:14:05</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_id>f136987f1b021d106dd7ca261a4bcb40</sys_id>
+<sys_mod_count>4</sys_mod_count>
+<sys_updated_by>system</sys_updated_by>
+<sys_updated_on>2022-09-26 19:14:19</sys_updated_on>
+<task_effective_number>RITM1126273</task_effective_number>
+<time_worked/>
+<u_affected_country/>
+<u_application/>
+<u_approval_info/>
+<u_aps_cdm_extract_building/>
+<u_aps_cdm_extract_id/>
+<u_aps_cdm_extract_lan/>
+<u_aps_cdm_extract_macd/>
+<u_assignee_change_count>0</u_assignee_change_count>
+<u_automatically_approved>false</u_automatically_approved>
+<u_cancellation_reason/>
+<u_ccure_automation_status/>
+<u_closed_the_task>false</u_closed_the_task>
+<u_closure_code>Closed - No Issues</u_closure_code>
+<u_closure_reason/>
+<u_config_change_type/>
+<u_cost_center_approval_completed/>
+<u_cost_center_approval_duration/>
+<u_cost_center_approval_requested/>
+<u_cost_centre/>
+<u_date_required_subject_to_negotiation/>
+<u_delivery_date/>
+<u_delivery_date_change_count/>
+<u_delivery_options>Standard</u_delivery_options>
+<u_domain/>
+<u_domain_name/>
+<u_email_cc/>
+<u_email_to/>
+<u_enterprise_delivery/>
+<u_esw_new_phone_number/>
+<u_iiq_employee_extract_id/>
+<u_influx>false</u_influx>
+<u_isc_sla>5</u_isc_sla>
+<u_isc_work_day/>
+<u_item_number display_value="RITM1126273">f136987f1b021d106dd7ca261a4bcb40</u_item_number>
+<u_knowledge_article_number/>
+<u_kona_stage/>
+<u_last_work_note/>
+<u_manager_approval_completed/>
+<u_manager_approval_duration/>
+<u_manager_approval_requested/>
+<u_moderator_code/>
+<u_msg_flag>false</u_msg_flag>
+<u_negotiated_date_status/>
+<u_negotiated_delivery_date/>
+<u_next_step/>
+<u_origin_of_request/>
+<u_original_due_date>2022-10-03 19:14:11</u_original_due_date>
+<u_p_and_e_ritm/>
+<u_participant_code/>
+<u_password/>
+<u_previous_delivery_date/>
+<u_record_locked>false</u_record_locked>
+<u_region/>
+<u_related_dummy>false</u_related_dummy>
+<u_renegotiate_reason/>
+<u_rep_application_name/>
+<u_rep_approval_helper/>
+<u_rep_approver/>
+<u_rep_chargeable/>
+<u_rep_chg_end_dt_tm/>
+<u_rep_chg_st_dt_tm/>
+<u_rep_chg_ticket_no/>
+<u_rep_cost_centre/>
+<u_rep_current_user_extension/>
+<u_rep_date_required>undefined</u_rep_date_required>
+<u_rep_describe_work/>
+<u_rep_environment/>
+<u_rep_ext_client_nm/>
+<u_rep_forex_advance/>
+<u_rep_frequency_forex_upload/>
+<u_rep_host_nm/>
+<u_rep_hotel_expense/>
+<u_rep_last_full_day_at_work/>
+<u_rep_location/>
+<u_rep_office_type>Corporate</u_rep_office_type>
+<u_rep_operating_system/>
+<u_rep_per_diem/>
+<u_rep_related_ritm/>
+<u_rep_request_desc/>
+<u_rep_request_type>New Install</u_rep_request_type>
+<u_rep_requested_by_date/>
+<u_rep_requested_for display_value="Jona Sahota">f8e94d871b27e4106ca287b3604bcbcc</u_rep_requested_for>
+<u_rep_requester display_value="Jona Sahota">f8e94d871b27e4106ca287b3604bcbcc</u_rep_requester>
+<u_rep_service_desk_category/>
+<u_rep_sla/>
+<u_rep_software/>
+<u_rep_start_date>2021-05-03</u_rep_start_date>
+<u_rep_systemname>Avaya</u_rep_systemname>
+<u_rep_table_info/>
+<u_rep_total_forex/>
+<u_request_description/>
+<u_request_number display_value="REQ0996033">0436547f1b021d106dd7ca261a4bcb52</u_request_number>
+<u_request_type/>
+<u_request_type_for_ascp_batch/>
+<u_request_type_subcategories/>
+<u_rf_category/>
+<u_rf_subcategory/>
+<u_scheduled_install_date/>
+<u_server_count/>
+<u_server_count_integer/>
+<u_server_ops_technician/>
+<u_server_request_number/>
+<u_sla_helper>Softphone</u_sla_helper>
+<u_slf_state>Waiting for Assignment</u_slf_state>
+<u_subcategory/>
+<u_subject/>
+<u_treasury_on_hold>false</u_treasury_on_hold>
+<u_triage_notes/>
+<u_user_extension/>
+<u_user_name/>
+<u_validation_details/>
+<u_view_helper/>
+<u_wintel_ritm_duration/>
+<u_wintel_ritm_tot_dur/>
+<u_wintel_server_business_duration/>
+<u_wintel_server_request_number/>
+<u_work_notes_list/>
+<universal_request/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency/>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity/>
+<work_end/>
+<work_notes/>
+<work_start/>
+</sc_req_item>
+<fx_price action="delete_multiple" query="id=f136987f1b021d106dd7ca261a4bcb40"/>
+<fx_price action="INSERT_OR_UPDATE">
+<amount>0</amount>
+<currency display_value="CAD">CAD</currency>
+<field>recurring_price</field>
+<id>f136987f1b021d106dd7ca261a4bcb40</id>
+<parent/>
+<reference_amount>0</reference_amount>
+<reference_currency display_value="CAD">CAD</reference_currency>
+<sys_created_by>QX76</sys_created_by>
+<sys_created_on>2022-09-26 19:14:05</sys_created_on>
+<sys_id>4636987f1b021d106dd7ca261a4bcb98</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>QX76</sys_updated_by>
+<sys_updated_on>2022-09-26 19:14:05</sys_updated_on>
+<table>sc_req_item</table>
+<type>calculated</type>
+</fx_price>
+</xml>

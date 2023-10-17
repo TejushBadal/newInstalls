@@ -1,0 +1,430 @@
+[
+    {
+        "name": "tel_ritm_field",
+        "value": "sys_meta"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "u_rep_start_date"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "parent"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "u_request_number"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "sys_updated_on"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "state"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "sys_created_by"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "u_email_cc"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "order_guide"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "u_rep_request_type"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "u_slf_state"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "u_rep_chargeable"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "hierarchical_variables"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "stage"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "made_sla"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "sys_created_on"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "u_original_due_date"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "u_item_number"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "u_rep_requester"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "closed_at"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "u_rep_systemname"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "u_isc_sla"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "assignment_group"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "sys_id"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "u_email_to"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "approval"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "recurring_price"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "u_assignee_change_count"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "u_rep_requested_for"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "u_closure_code"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "upon_reject"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "number"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "u_delivery_options"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "price"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "u_iiq_employee_extract_id"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "context"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "u_rep_date_required"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "approval_set"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "short_description"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "u_sla_helper"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "sys_class_name"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "closed_by"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "reassignment_count"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "assigned_to"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "u_rep_office_type"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "cat_item"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "upon_approval"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "u_rep_location"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "task_effective_number"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "sys_updated_by"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "opened_by"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "sys_domain"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "opened_at"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "request"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "u_subject"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "quantity"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "due_date"
+    },
+    {
+        "name": "tel_ritm_field",
+        "value": "sys_mod_count"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "tel_ph_number_extension"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "dt_delivery_option_tel"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "date_request"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "tel_office_type"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "tel_request_type"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "tel_acf2id"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "tel_name"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "tel_email_adrs"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "tel_corporate_office"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "tel_budgetcode"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "tel_manager_text"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "cost_center_ref"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "tel_manager"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "tel_name_ref"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "tel_new_working_site"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "tel_location"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "tel_date_required"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "tel_start_date"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "tel_agent_profile"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "tel_direct_line"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "tel_soft_phone"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "tel_previous_info"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "tel_call_agent"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "tel_tier"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "tel_group"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "tel_agent_login"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "tel_leave_phone"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "tel_single_number"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "tel_voicemail"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "tel_bridge"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "tel_call_fwd"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "tel_request_direct_line"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "tel_phone_set"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "tel_occupant"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "tel_req_800_line"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "tel_usb_hdset"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "nwh_hw_required_by_date"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "nw_hire_department"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "nw_hire_perm_desk"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "tel_phone_system"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "nwh_baccesscity_of_use"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "vs_requested_for"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "nw_hire_call_center_user"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "nw_hire_start_work"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "vs_requester"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "nw_hire_floor"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "iiq_employee_extract_id"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "iiq_extract_variables"
+    },
+    {
+        "name": "tel_cat_variable",
+        "value": "static_instruction"
+    }
+]
